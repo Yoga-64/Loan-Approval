@@ -1,5 +1,5 @@
 import pandas as pd
-import pickle
+import pickles
 from pydantic import BaseModel  ,Field
 from typing import Annotated,Literal
 import numpy as np
